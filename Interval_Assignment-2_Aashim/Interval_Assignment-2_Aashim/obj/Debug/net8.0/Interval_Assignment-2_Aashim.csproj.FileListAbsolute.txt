@@ -1,0 +1,14 @@
+D:\W_24\CSD 2354 (C#)\Assignments\Interval_Assignment-2_Aashim\Interval_Assignment-2_Aashim\bin\Debug\net8.0\Interval_Assignment-2_Aashim.exe
+D:\W_24\CSD 2354 (C#)\Assignments\Interval_Assignment-2_Aashim\Interval_Assignment-2_Aashim\bin\Debug\net8.0\Interval_Assignment-2_Aashim.deps.json
+D:\W_24\CSD 2354 (C#)\Assignments\Interval_Assignment-2_Aashim\Interval_Assignment-2_Aashim\bin\Debug\net8.0\Interval_Assignment-2_Aashim.runtimeconfig.json
+D:\W_24\CSD 2354 (C#)\Assignments\Interval_Assignment-2_Aashim\Interval_Assignment-2_Aashim\bin\Debug\net8.0\Interval_Assignment-2_Aashim.dll
+D:\W_24\CSD 2354 (C#)\Assignments\Interval_Assignment-2_Aashim\Interval_Assignment-2_Aashim\bin\Debug\net8.0\Interval_Assignment-2_Aashim.pdb
+D:\W_24\CSD 2354 (C#)\Assignments\Interval_Assignment-2_Aashim\Interval_Assignment-2_Aashim\obj\Debug\net8.0\Interval_Assignment-2_Aashim.GeneratedMSBuildEditorConfig.editorconfig
+D:\W_24\CSD 2354 (C#)\Assignments\Interval_Assignment-2_Aashim\Interval_Assignment-2_Aashim\obj\Debug\net8.0\Interval_Assignment-2_Aashim.AssemblyInfoInputs.cache
+D:\W_24\CSD 2354 (C#)\Assignments\Interval_Assignment-2_Aashim\Interval_Assignment-2_Aashim\obj\Debug\net8.0\Interval_Assignment-2_Aashim.AssemblyInfo.cs
+D:\W_24\CSD 2354 (C#)\Assignments\Interval_Assignment-2_Aashim\Interval_Assignment-2_Aashim\obj\Debug\net8.0\Interval_Assignment-2_Aashim.csproj.CoreCompileInputs.cache
+D:\W_24\CSD 2354 (C#)\Assignments\Interval_Assignment-2_Aashim\Interval_Assignment-2_Aashim\obj\Debug\net8.0\Interval_Assignment-2_Aashim.dll
+D:\W_24\CSD 2354 (C#)\Assignments\Interval_Assignment-2_Aashim\Interval_Assignment-2_Aashim\obj\Debug\net8.0\refint\Interval_Assignment-2_Aashim.dll
+D:\W_24\CSD 2354 (C#)\Assignments\Interval_Assignment-2_Aashim\Interval_Assignment-2_Aashim\obj\Debug\net8.0\Interval_Assignment-2_Aashim.pdb
+D:\W_24\CSD 2354 (C#)\Assignments\Interval_Assignment-2_Aashim\Interval_Assignment-2_Aashim\obj\Debug\net8.0\Interval_Assignment-2_Aashim.genruntimeconfig.cache
+D:\W_24\CSD 2354 (C#)\Assignments\Interval_Assignment-2_Aashim\Interval_Assignment-2_Aashim\obj\Debug\net8.0\ref\Interval_Assignment-2_Aashim.dll
